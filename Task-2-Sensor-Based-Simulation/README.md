@@ -1,4 +1,7 @@
 Task 2 – Sensor-Based Simulation
+
+Project Link:  https://www.tinkercad.com/things/9Wd8wPGJTYO-temperature-sensor-based-led-control-using-arduino?sharecode=NxkFGFxNGsXH8QZSrK2D5C1_P_Ra8qLUP_1lhwfnlIQ
+
 PROJECT TITLE
 Temperature Sensor-Based LED Control using Arduino
 
@@ -36,4 +39,4 @@ Embedded Systems
 
 Internship: CodeAlpha – Internet of Things (IoT)
 
-Project Link:  https://www.tinkercad.com/things/9Wd8wPGJTYO-temperature-sensor-based-led-control-using-arduino?sharecode=NxkFGFxNGsXH8QZSrK2D5C1_P_Ra8qLUP_1lhwfnlIQ
+
